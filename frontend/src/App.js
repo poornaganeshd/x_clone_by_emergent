@@ -46,15 +46,15 @@ const mockTweets = [
     views: 12500
   },
   {
-    id: 2,
+    id: 3,
     user: {
       username: 'lifestyle_sarah',
       displayName: 'Sarah | Lifestyle',
-      avatar: 'https://images.unsplash.com/photo-1657128344786-360c3f8e57e5',
+      avatar: 'https://images.unsplash.com/photo-1657128344786-360c3f8e57e5?w=150&h=150&fit=crop&crop=face',
       verified: false
     },
     content: 'Morning coffee ritual ☕ Starting the day right with some mindfulness and gratitude. What does your morning look like?',
-    image: 'https://images.unsplash.com/photo-1517487881594-2787fef5ebf7',
+    image: 'https://images.unsplash.com/photo-1517487881594-2787fef5ebf7?w=500&h=300&fit=crop',
     timestamp: '4h',
     likes: 523,
     retweets: 78,
@@ -62,15 +62,15 @@ const mockTweets = [
     views: 3200
   },
   {
-    id: 3,
+    id: 4,
     user: {
       username: 'devjohn',
       displayName: 'John Developer',
-      avatar: 'https://images.unsplash.com/photo-1576558656222-ba66febe3dec',
+      avatar: 'https://images.unsplash.com/photo-1576558656222-ba66febe3dec?w=150&h=150&fit=crop&crop=face',
       verified: true
     },
     content: 'Spent the weekend building this cool project with React and AI. The possibilities are endless when you combine creativity with code! 💻✨',
-    image: 'https://images.unsplash.com/photo-1531297484001-80022131f5a1',
+    image: 'https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=500&h=300&fit=crop',
     timestamp: '6h',
     likes: 892,
     retweets: 156,
@@ -78,15 +78,15 @@ const mockTweets = [
     views: 5600
   },
   {
-    id: 4,
+    id: 5,
     user: {
       username: 'wellness_maya',
       displayName: 'Maya Wellness',
-      avatar: 'https://images.unsplash.com/photo-1517486808906-6ca8b3f04846',
+      avatar: 'https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?w=150&h=150&fit=crop&crop=face',
       verified: false
     },
     content: 'Daily reminder: Your mental health matters. Take breaks, breathe deeply, and be kind to yourself. 🧘‍♀️💚 #MentalHealthMatters',
-    image: 'https://images.unsplash.com/photo-1506126613408-eca07ce68773',
+    image: 'https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=500&h=300&fit=crop',
     timestamp: '8h',
     likes: 2156,
     retweets: 456,
@@ -94,15 +94,15 @@ const mockTweets = [
     views: 8900
   },
   {
-    id: 5,
+    id: 6,
     user: {
       username: 'socialmedia_pro',
       displayName: 'Social Media Pro',
-      avatar: 'https://images.unsplash.com/photo-1527525443983-6e60c75fff46',
+      avatar: 'https://images.unsplash.com/photo-1527525443983-6e60c75fff46?w=150&h=150&fit=crop&crop=face',
       verified: true
     },
     content: 'The evolution of social media platforms continues to amaze me. From simple text posts to immersive experiences. What\'s next? 📱🌐',
-    image: 'https://images.unsplash.com/photo-1579869847557-1f67382cc158',
+    image: 'https://images.unsplash.com/photo-1579869847557-1f67382cc158?w=500&h=300&fit=crop',
     timestamp: '12h',
     likes: 1834,
     retweets: 289,
