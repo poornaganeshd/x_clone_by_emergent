@@ -126,21 +126,21 @@ const mockSuggestions = [
   {
     username: 'elonmusk',
     displayName: 'Elon Musk',
-    avatar: 'https://images.unsplash.com/photo-1649972904349-6e44c42644a7',
+    avatar: 'https://images.unsplash.com/photo-1649972904349-6e44c42644a7?w=150&h=150&fit=crop&crop=face',
     verified: true,
     bio: 'CEO of Tesla, SpaceX, and X'
   },
   {
     username: 'coding_tips',
     displayName: 'Coding Tips',
-    avatar: 'https://images.unsplash.com/photo-1488751045188-3c55bbf9a3fa',
+    avatar: 'https://images.unsplash.com/photo-1488751045188-3c55bbf9a3fa?w=150&h=150&fit=crop&crop=face',
     verified: false,
     bio: 'Daily coding tips and tricks'
   },
   {
     username: 'design_inspiration',
     displayName: 'Design Inspiration',
-    avatar: 'https://images.unsplash.com/photo-1513171920216-2640b288471b',
+    avatar: 'https://images.unsplash.com/photo-1513171920216-2640b288471b?w=150&h=150&fit=crop&crop=face',
     verified: true,
     bio: 'Beautiful design inspiration daily'
   }
