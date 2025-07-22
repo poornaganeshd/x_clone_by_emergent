@@ -142,7 +142,7 @@ export const TweetComposer = ({ onTweet, newTweet, setNewTweet }) => {
   return (
     <div className="tweet-composer">
       <img 
-        src="https://images.unsplash.com/photo-1560250097-0b93528c311a" 
+        src="https://images.unsplash.com/photo-1560250097-0b93528c311a?w=150&h=150&fit=crop&crop=face" 
         alt="Your avatar" 
         className="composer-avatar"
       />
