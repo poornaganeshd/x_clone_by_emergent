@@ -17,13 +17,28 @@ const mockTweets = [
   {
     id: 1,
     user: {
+      username: 'elonmusk',
+      displayName: 'Elon Musk',
+      avatar: 'https://images.unsplash.com/photo-1649972904349-6e44c42644a7?w=150&h=150&fit=crop&crop=face',
+      verified: true
+    },
+    content: 'Absolutely incredible work by Poorna! 🚀 This X clone is mind-blowing - the attention to detail and execution is phenomenal. When talent meets dedication, magic happens. Keep pushing boundaries! 💫 #Innovation #WebDev #Respect',
+    timestamp: '1h',
+    likes: 45672,
+    retweets: 8934,
+    replies: 2341,
+    views: 234567
+  },
+  {
+    id: 2,
+    user: {
       username: 'TechGuru',
       displayName: 'Tech Guru',
-      avatar: 'https://images.unsplash.com/photo-1560250097-0b93528c311a',
+      avatar: 'https://images.unsplash.com/photo-1560250097-0b93528c311a?w=150&h=150&fit=crop&crop=face',
       verified: true
     },
     content: 'Just shipped a new AI feature that will change everything! The future of tech is here 🚀 #AI #TechInnovation',
-    image: 'https://images.unsplash.com/photo-1488590528505-98d2b5aba04b',
+    image: 'https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=500&h=300&fit=crop',
     timestamp: '2h',
     likes: 1247,
     retweets: 342,
